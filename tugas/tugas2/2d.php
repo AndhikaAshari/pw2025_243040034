@@ -17,7 +17,6 @@
         height: 50px;
         text-align: center;
         align-content: center;
-        background-color: #ff8080;
         border: 1px solid #000;
     }
 
@@ -26,7 +25,7 @@
     }
 
     .warnahitam {
-        background-color: black;
+        background-color: #343343;
         color: white;
     }
 
