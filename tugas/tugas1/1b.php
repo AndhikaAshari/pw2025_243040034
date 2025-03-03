@@ -14,4 +14,3 @@ echo "Jika aku ditambah 75, maka aku sekarang menjadi <strong>$angka</strong><br
 
 $angka -= 20;
 echo "Jika aku dikurangi 20, maka aku sekarang menjadi <strong>$angka</strong><br>";
-?>
